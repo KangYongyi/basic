@@ -78,15 +78,15 @@ $$F(s) = Ms^2X(s) +bsX(s) + kX(s) - bsY(s) - kY(s)$$
 
 $$0 = ms^2Y(s) +bsY(s) + kY(s) - bsX(s) - kX(s)$$
 
-와 같이 된다. 이를 행렬 식으로 작성하면
+와 같이 된다. 이를 행렬식으로 작성하면
 
 $$\begin{pmatrix}
-Ms^s+bs+k & -bs-k \\
+Ms^s+bs+k & -bs-k \
  -bs-k  & ms^2+bs+k
 \end{pmatrix}\begin{pmatrix}
-X(s) \\Y(s)
+X(s) \Y(s)
 \end{pmatrix}=\begin{pmatrix}
-F(s) \\0
+F(s) \0
 \end{pmatrix}$$
 
 
