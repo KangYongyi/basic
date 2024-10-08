@@ -53,7 +53,21 @@ $$ms^2X(s)+bsX(s)+kX(s) = 0$$
 
 $$X(s) = \frac{1}{ms^2 + bs + k}$$
 
-역라플라스 변환
+역라플라스 변환  
+매트랩 코드
+
+```
+clear;
+% 변수 생성
+syms s t m b k X_s X_t
+
+% 식 정의
+X_s = 1/(m*s^2+b*s+k)
+
+% 역라플라스 변환
+x_t = ilaplace(X_s, s, t)
+```
+
 
 $$
 x(t)=\frac{2 \sin \left( \frac{t \sqrt{- b^2 + 4 k m}}{2 m} \right) e^ \left( -\frac{b t}{2 m} \right)}{\sqrt{- b^2 + 4 k m}}
