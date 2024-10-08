@@ -1,7 +1,7 @@
 # HW1
 ---
 
-###P2.7
+### P2.7
 
 <a href="https://ibb.co/9tk3xpj"><img src="https://i.ibb.co/sHdJTgr/image.png" alt="image" border="0"></a>
 
@@ -15,7 +15,7 @@ $$G(s) = \frac{V_2(s)}{V_1(s)} = \frac{1}{sRC}$$
 
 ---
 
-###P2.12
+### P2.12
 
 
 <a href="https://ibb.co/fDC69HK"><img src="https://i.ibb.co/KK94DWQ/2024-10-07-201600.jpg" alt="2024-10-07-201600" border="0"></a>
@@ -38,7 +38,7 @@ $$\displaystyle \lim_{t\to\infty}y(t) =\frac{k}{50}=1$$
 
 ---
 
-###P2.15
+### P2.15
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DWgbts8/2024-10-07-211144.jpg" alt="2024-10-07-211144" border="0"></a>
 
@@ -61,7 +61,7 @@ $$
 
 ---
 
-###P2.26
+### P2.26
 
 
 <img src="https://i.ibb.co/n12LcgB/2024-10-07-215549.jpg" alt="2024-10-07-215549" border="0">
@@ -117,7 +117,7 @@ $$G(S) = \frac{Y(s)}{F(s)} = \frac{k+bs}{bms^3+kms^2+bMs^3+kMs^2+Mms^4}$$
 
 ---
 
-###P2.37
+### P2.37
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dk5sP9M/2024-10-08-153849.jpg" alt="2024-10-08-153849" border="0"></a>  
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/7GFtR9x/2024-10-08-153904.jpg" alt="2024-10-08-153904" border="0"></a>
